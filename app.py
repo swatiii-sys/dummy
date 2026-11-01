@@ -1,5 +1,5 @@
 """
-IoT Based Concrete Curing & Strength Monitoring System
+IoT Based Concrete Curing & Strength Monitoring System.
 Professional multi-tab Streamlit dashboard.
 
 Run:  streamlit run app.py
